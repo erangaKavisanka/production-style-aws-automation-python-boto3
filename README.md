@@ -1,4 +1,7 @@
 # 🚀 Cloud Deployment Engine (Production-Style AWS Automation using Python + boto3)
+<p align="center">
+<img src="Architecture.png" width="1000">
+</p>
 
 ## 📌 Overview
 This project is a **production-style cloud deployment engine** that automates AWS infrastructure provisioning using Python and boto3.  
